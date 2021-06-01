@@ -1,5 +1,5 @@
 # CI/CD Deep Dive with JFrog Pipelines
-
+ 
 ## Goal of this Lab
 
 The goal of this lab is to get some hands on experience with the following Pipelines concepts:
